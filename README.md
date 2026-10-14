@@ -1,12 +1,12 @@
-# Week 01: Object-Oriented Programming (OOP) in Java
+# Week 02: Arrays, Searching, Two Pointers & Sliding Window
 
-This repository contains practice exercises, quizzes, concept questions, and core assignments covering:
-- Classes, Encapsulation & Inheritance
-- Method Overriding vs Overloading
-- Polymorphism & Dynamic Method Dispatch
-- Abstract Classes and Interfaces
-- Object class methods (`equals`, `hashCode`, `toString`)
+This week covers foundational algorithmic patterns in Java:
+- Searching: Binary Search on sorted sequences ($O(\log n)$) vs Linear Search ($O(n)$)
+- Multi-dimensional Arrays: 2D Grid scanning and aggregate statistics
+- Two Pointers: Inward moving pointers and merging sorted sequences
+- Hashing: $O(n)$ complement search for target sums
+- Sliding Window: Fixed-size window optimization for rolling statistics
 
 ## Folder Structure
-- `practice/`: OOP problems, quizzes (Part B), and concept questions (Part C).
-- `assignment/`: Core system design assignments (Bank Account, Campus Pass, Club Registration, Marks Grid, Payroll).
+- `practice/`: Practice coding problems (Part A from BridgeLabz), Quizzes (Part B), and Concept Questions (Part C).
+- `assignment/`: Core Data Structures Coding Assignment (Category B - Class Topper, Merge Queues, Canteen Order, Hot Weather Alert, Ticket Price Slot).
