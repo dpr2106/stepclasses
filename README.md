@@ -1,6 +1,7 @@
-# Week 09: Hashing & Hash Tables
+# Week 10: Graph Algorithms & Dynamic Programming Fundamentals
 
-This week focuses on direct address tables, collision resolution, and hash sets/maps:
-- Separate Chaining vs Open Addressing (Linear Probing)
-- Load Factor & Rehashing
-- Anagram Grouping and Longest Consecutive Sequence
+The final milestone week brings together graph traversals and optimal substructure / memoization:
+- Graph Representation: Adjacency List & Matrix
+- Breadth-First Search (BFS) for shortest path in unweighted graphs
+- Depth-First Search (DFS) for connected components & cycle detection
+- 1D & 2D Dynamic Programming: 0/1 Knapsack & Longest Common Subsequence (LCS)
