@@ -1,6 +1,6 @@
-# Week 04: Stacks and Queues
+# Week 05: Recursion and Backtracking
 
-This week explores LIFO and FIFO data structures:
-- Stack implementation using arrays and linked nodes
-- Queue and Circular Queue implementations
-- Applications: Balanced Parentheses matching, Next Greater Element, and Infix-to-Postfix conversion
+This week focuses on recursive problem solving and exhaustive search via backtracking:
+- Base cases and recursion trees
+- Generating subsets and permutations
+- N-Queens problem and Sudoku solver principles
