@@ -1,6 +1,7 @@
-# Week 07: Binary Trees and Binary Search Trees (BST)
+# Week 08: Heaps and Priority Queues
 
-This week covers hierarchical non-linear data structures:
-- Tree Traversals: Inorder, Preorder, Postorder, and Level Order (BFS)
-- Binary Search Tree properties: Insertion, Search, Deletion, and Validation
-- Maximum Depth and Lowest Common Ancestor (LCA)
+This week explores binary heap representations and priority queues:
+- Min-Heap and Max-Heap properties
+- Heapify operations (Sink / Swim)
+- Finding Kth Largest / Smallest elements ($O(n \log k)$)
+- Merging K sorted lists via Min-Heap
