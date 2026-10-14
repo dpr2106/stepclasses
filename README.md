@@ -1,6 +1,6 @@
-# Week 05: Recursion and Backtracking
+# Week 06: Sorting Algorithms & Divide and Conquer
 
-This week focuses on recursive problem solving and exhaustive search via backtracking:
-- Base cases and recursion trees
-- Generating subsets and permutations
-- N-Queens problem and Sudoku solver principles
+This week covers comparison-based sorting algorithms and divide-and-conquer analysis:
+- Merge Sort ($O(n \log n)$, Stable, $O(n)$ space)
+- Quick Sort ($O(n \log n)$ average, In-place, Dutch National Flag partition)
+- Inversion count in arrays
